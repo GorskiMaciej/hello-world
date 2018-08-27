@@ -1,2 +1,2 @@
 # hello-world
-First attempt with Git.
+First attempt to Git.
